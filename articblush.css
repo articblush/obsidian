@@ -1,0 +1,42 @@
+/* Obsidian Theme using Articblush Colors */
+
+/* Background */
+body {
+    --background-primary: #040C16;
+    --background-secondary: #1B2C31;
+    --background-modifier-border: #CCE9EA;
+}
+
+/* Text Colors */
+body {
+    --text-normal: #EDF7F8;
+    --text-muted: #CCE9EA;
+    --text-title-h1: #EADD94;
+    --text-title-h2: #FF7377;
+    --text-title-h3: #AAF0C1;
+}
+
+/* Links */
+body {
+    --text-link: #BDD6F4;
+    --text-link-hover: #B3FFFF;
+}
+
+/* Code Blocks */
+body {
+    --code-normal: #F9ECF7;
+    --code-background: #1B2C31;
+}
+
+/* Highlights */
+body {
+    --text-highlight-bg: #EADD94;
+    --text-highlight-fg: #040C16;
+}
+
+/* UI Elements */
+body {
+    --interactive-normal: #BDD6F4;
+    --interactive-hover: #B3FFFF;
+    --interactive-accent: #FF7377;
+}
